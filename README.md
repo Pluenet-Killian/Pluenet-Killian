@@ -1,4 +1,4 @@
-# Salut ! 👋
+# Salutation ! 👋
 
 Je suis Killian, un développeur full stack avide d'apprentissage et passionné par la transformation des idées en code. Spécialisé dans Laravel et Next.js, j'aime m'attaquer à des problèmes complexes, explorer de nouvelles technologies et améliorer constamment mes compétences.
 
