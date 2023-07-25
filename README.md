@@ -6,4 +6,4 @@ Mes domaines de prédilection incluent la création d'API robustes, la gestion d
 
 Je crois en l'apprentissage continu et en la croissance personnelle - toujours à la recherche de nouvelles idées, toujours curieux, toujours prêt à relever le prochain défi.
 
-Explorez mes dépôts pour avoir un aperçu de ce que j'ai fait jusqu'à présent, et n'hésitez pas à me contacter si vous avez des questions, des commentaires ou simplement envie de discuter de code. Toujours ouvert à la collaboration et aux nouvelles opportunités. 💻🚀🌱
+Explorez mes dépôts pour avoir un aperçu de ce que j'ai fait jusqu'à présent, et n'hésitez pas à me contacter si vous avez des questions, des commentaires ou simplement envie de discuter de code. Toujours ouvert à la collaboration et aux nouvelles opportunités. 
