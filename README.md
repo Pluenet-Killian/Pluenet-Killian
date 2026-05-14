@@ -1,9 +1,9 @@
-# Salutation ! 👋
+# Salut ! 👋
 
-Je suis Killian, un développeur full stack avide d'apprentissage et passionné par la transformation des idées en code. Spécialisé dans Laravel et Next.js, j'aime m'attaquer à des problèmes complexes, explorer de nouvelles technologies et améliorer constamment mes compétences.
+Je suis Killian, développeur **C / C++** spécialisé dans les **systèmes embarqués** et la **programmation bas niveau**. Ce qui me passionne, c'est de comprendre ce qui se passe *réellement* sous le capot — du dialogue entre composants à l'optimisation des ressources dans des environnements contraints.
 
-Mes domaines de prédilection incluent la création d'API robustes, la gestion de bases de données et le développement d'applications front-end performantes. Chaque nouveau projet est pour moi une opportunité de plonger plus profondément dans l'art de la programmation et d'apporter une solution significative à un problème réel.
+Je conçois des firmwares sur architectures **STM32**, et je développe **Memtide**, un orchestrateur de mémoire RAM et CXL : un projet exigeant qui mêle gestion mémoire fine, architectures modernes et performance à très bas niveau.
 
-Je crois en l'apprentissage continu et en la croissance personnelle - toujours à la recherche de nouvelles idées, toujours curieux, toujours prêt à relever le prochain défi.
+Membre du **Sophia Hack Lab** (le hackerspace d'Antibes), j'échange au quotidien avec d'autres passionnés de hardware et de systèmes. J'écris aussi sur **LeCompute**, où je décortique l'infrastructure de l'IA — du silicium au code.
 
-Explorez mes dépôts pour avoir un aperçu de ce que j'ai fait jusqu'à présent, et n'hésitez pas à me contacter si vous avez des questions, des commentaires ou simplement envie de discuter de code. Toujours ouvert à la collaboration et aux nouvelles opportunités. 
+Curieux, en apprentissage permanent, et toujours partant pour le prochain défi technique. Explorez mes dépôts pour voir ce sur quoi je travaille — et n'hésitez pas à me contacter pour parler systèmes, hardware ou code. Ouvert à la collaboration et aux nouvelles opportunités
