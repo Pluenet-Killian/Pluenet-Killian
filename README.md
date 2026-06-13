@@ -1,9 +1,7 @@
-# Salut ! 👋
+Je m'appelle Killian Pluenet, je suis ingénieur logiciel spécialisé dans les systèmes et le bas niveau (C, C++, Rust). Je conçois des logiciels proches du matériel, faits pour tenir en production.
 
-Je suis Killian, développeur **C / C++** spécialisé dans les **systèmes embarqués** et la **programmation bas niveau**. Ce qui me passionne, c'est de comprendre ce qui se passe *réellement* sous le capot — du dialogue entre composants à l'optimisation des ressources dans des environnements contraints.
+Je développe actuellement un système de téléopération temps réel en Rust, déployé en production : pilotage à distance d'appareils embarqués, avec streaming vidéo, transport réseau QUIC et contrôle bas niveau. Je travaille aussi sur des firmwares STM32, et je construis Memtide, un orchestrateur de tiering mémoire RAM/CXL, à la pointe des architectures mémoire actuelles.
 
-Je conçois des firmwares sur architectures **STM32**, et je développe **Memtide**, un orchestrateur de mémoire RAM et CXL : un projet exigeant qui mêle gestion mémoire fine, architectures modernes et performance à très bas niveau.
+Je suis convaincu que le compute sera la ressource décisive des prochaines années. Je veux le maîtriser en profondeur, du matériel jusqu'aux systèmes qui tournent dessus. C'est aussi ce que j'explore sur LeCompute, mon média sur l'infrastructure de l'IA.
 
-Membre du **Sophia Hack Lab** (le hackerspace d'Antibes), j'échange au quotidien avec d'autres passionnés de hardware et de systèmes. J'écris aussi sur **LeCompute**, où je décortique l'infrastructure de l'IA — du silicium au code.
-
-Curieux, en apprentissage permanent, et toujours partant pour le prochain défi technique. Explorez mes dépôts pour voir ce sur quoi je travaille — et n'hésitez pas à me contacter pour parler systèmes, hardware ou code. Ouvert à la collaboration et aux nouvelles opportunités
+Membre du Sophia Hack Lab d'Antibes. Ouvert aux projets ambitieux et aux opportunités sérieuses.
